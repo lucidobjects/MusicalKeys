@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicalKeys", "MusicalKeys\MusicalKeys.csproj", "{47E436BC-6A44-47DE-8D45-9C1FB0F8724A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C3D0325-6BA3-4A2F-9F95-E6057FAC1A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C3D0325-6BA3-4A2F-9F95-E6057FAC1A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C3D0325-6BA3-4A2F-9F95-E6057FAC1A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C3D0325-6BA3-4A2F-9F95-E6057FAC1A74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47E436BC-6A44-47DE-8D45-9C1FB0F8724A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E436BC-6A44-47DE-8D45-9C1FB0F8724A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E436BC-6A44-47DE-8D45-9C1FB0F8724A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E436BC-6A44-47DE-8D45-9C1FB0F8724A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A078395-EDF1-45BC-9772-F6D92F41FE60}
+	EndGlobalSection
+EndGlobal
